@@ -1,0 +1,9 @@
+v 3
+d fairlie: Stata module to compute nonlinear decomposition of binary outcome differentials
+d 
+d Author: Ben Jann, University of Bern, ben.jann@unibe.ch
+d
+d Distribution-Date: 20230227
+f fairlie.hlp
+f fairlie.ado
+f homecomp.dta
